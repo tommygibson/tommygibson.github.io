@@ -1,3 +1,8 @@
+---
+title: "Publications"
+permalink: /publications/
+---
+
 ### Current list of publications
 
 Probst, M. A., __Gibson, T.__, Weiss, R. E., Yagapen, A. N., Malveau, S. E., Adler, D. H., ... &
