@@ -81,7 +81,7 @@ footer:
     - label: "Email"
       icon: "fas fa-envelope"
       url:  mailto:tommy.a.gibson@gmail.com
-    - label: "LinkedIn
+    - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/tommygibson/"
 
