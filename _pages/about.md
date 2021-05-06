@@ -1,8 +1,26 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I have a number of passions outside of my academic and intellectual pursuits. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+### Sports!
+I love sports. The [Seattle Mariners](https://www.mlb.com/mariners) have had a firm grip on my heart since I started playing baseball myself in 2001 -- through the ups and (many) downs. To get my own blood pumping, I take every opportunity to play
+
+- Pickup basketball 🏀
+- Intramural/recreational softball ⚾
+- Spikeball 
+- Beach volleyball 🏖️ 🏐
+
+There is a natural collision of sports with statistics, and you can see my dive into that in Projects.
+
+### Music
+Music has been a big part of my life since joining my middle school jazz band. I have played bass trombone 🎵 in Seattle with the [Jazz Police](https://originarts.com/artists/artist.php?Artist_ID=20) and in Los Angeles with the [UCLA Jazz Orchestra](https://schoolofmusic.ucla.edu/ensembles/jazz-orchestra/), along with other gigs, like a Talking Heads cover band at Whitman College. Outside of playing jazz, I like to attend concerts and festivals all along the west coast.
+
+### Miscellaneous
+
+- Caring for houseplants
+- Beer/breweries 🍻
+- Coffee ☕
+
