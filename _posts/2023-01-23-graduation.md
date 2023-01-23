@@ -1,5 +1,5 @@
 ---
-title: “Graduation”
+title: Graduation
 categories:
   - Blog
 ---
