@@ -60,8 +60,7 @@ plugins:
 author:
   name   : "Tommy Gibson"
   avatar : "/assets/images/Tommy_pic.jpg"
-  bio    : "PhD Candidate in Biostatistics <br/>
-            University of California, Los Angeles"
+  bio    : "PhD, Biostatistics"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
